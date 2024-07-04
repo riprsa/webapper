@@ -1,4 +1,0 @@
-settings:
-  token_env: TOKEN
-  parse_mode: markdown
-  long_poller: {}
